@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ae28b97408cb34cc38754d00b2e0a852
+timeCreated: 1525359489
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MF LangSong (Noncommercial)
+  fontNames:
+  - MF LangSong (Noncommercial)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

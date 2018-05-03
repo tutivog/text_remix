@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3288c52b55f7c4cf0864134b4fd34ebf
+timeCreated: 1525359529
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FangSong_GB2312
+  fontNames:
+  - FangSong_GB2312
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
